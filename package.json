@@ -1,0 +1,19 @@
+{
+  "name": "martha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Cassiano",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "download-file": "^0.1.5",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "uuid": "^3.3.3",
+    "ytdl-core": "^1.0.5"
+  }
+}
